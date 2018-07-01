@@ -14,3 +14,4 @@
 <p><strong>Remove Elements from an Array Using slice Instead of splice:</strong> slice()<p>
 <p><strong>Combine Two Arrays Using the concat Method:</strong> concat()<p>
 <p><strong>Use the reduce Method to Analyze Data:</strong> filter(); map(); reduce()<p>
+<p><strong>Sort an Array Alphabetically using the sort Method:</strong> sort()<p>
