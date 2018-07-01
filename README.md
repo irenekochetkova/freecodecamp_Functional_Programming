@@ -13,3 +13,4 @@
 <p><strong>Return Part of an Array Using the slice Method:</strong> slice();<p>
 <p><strong>Remove Elements from an Array Using slice Instead of splice:</strong> slice()<p>
 <p><strong>Combine Two Arrays Using the concat Method:</strong> concat()<p>
+<p><strong>Use the reduce Method to Analyze Data:</strong> filter(); map(); reduce()<p>
