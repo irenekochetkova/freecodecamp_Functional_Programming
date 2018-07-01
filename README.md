@@ -10,4 +10,5 @@
 <p><strong>Implement map on a Prototype:</strong>Array.prototype.map(); Array.prototype.myMap; for loop or the forEach<p>
 <p><strong>Use the filter Method to Extract Data from an Array:</strong>Array.prototype.map(); Array.prototype.filter()<p>
 <p><strong>Implement the filter Method on a Prototype:</strong> Array.prototype.forEach(); Array.prototype.myFilter(); callback<p>
-<p><strong>Return Part of an Array Using the slice Method:</strong> slice(); callback<p>
+<p><strong>Return Part of an Array Using the slice Method:</strong> slice();<p>
+<p><strong>Remove Elements from an Array Using slice Instead of splice:</strong> slice()<p>
