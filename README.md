@@ -15,3 +15,4 @@
 <p><strong>Combine Two Arrays Using the concat Method:</strong> concat()<p>
 <p><strong>Use the reduce Method to Analyze Data:</strong> filter(); map(); reduce()<p>
 <p><strong>Sort an Array Alphabetically using the sort Method:</strong> sort()<p>
+<p><strong>Return a Sorted Array Without Changing the Original Array:</strong> sort(); concat();<p>
