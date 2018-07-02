@@ -19,3 +19,4 @@
 <p><strong>Split a String into an Array Using the split Method:</strong> split();<p>
 <p><strong>Combine an Array into a String Using the join Method:</strong> split(); join()<p>
 <p><strong> Apply Functional Programming to Convert Strings to URL Slugs:</strong> split(); join(); trim()<p>
+<p><strong> Use the every Method to Check that Every Element in an Array Meets a Criteria:</strong> every(function() {})<p>
