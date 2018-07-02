@@ -20,3 +20,4 @@
 <p><strong>Combine an Array into a String Using the join Method:</strong> split(); join()<p>
 <p><strong> Apply Functional Programming to Convert Strings to URL Slugs:</strong> split(); join(); trim()<p>
 <p><strong> Use the every Method to Check that Every Element in an Array Meets a Criteria:</strong> every(function() {})<p>
+<p><strong> Use the some Method to Check that Any Elements in an Array Meet a Criteria:</strong> some(function() {})<p>
