@@ -21,3 +21,4 @@
 <p><strong> Apply Functional Programming to Convert Strings to URL Slugs:</strong> split(); join(); trim()<p>
 <p><strong> Use the every Method to Check that Every Element in an Array Meets a Criteria:</strong> every(function() {})<p>
 <p><strong> Use the some Method to Check that Any Elements in an Array Meet a Criteria:</strong> some(function() {})<p>
+<p><strong> Introduction to Currying and Partial Application:</strong> curried function<p>
