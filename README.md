@@ -17,3 +17,4 @@
 <p><strong>Sort an Array Alphabetically using the sort Method:</strong> sort()<p>
 <p><strong>Return a Sorted Array Without Changing the Original Array:</strong> sort(); concat();<p>
 <p><strong>Split a String into an Array Using the split Method:</strong> split();<p>
+<p><strong>Combine an Array into a String Using the join Method:</strong> split(); join()<p>
